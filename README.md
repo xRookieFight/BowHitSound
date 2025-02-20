@@ -1,6 +1,6 @@
 # BowHitSound
 ---
-A PocketMine 4 plugin that does if someone hits a player with a bow, it throws a sound and says how much health target have.
+A PocketMine plugin that does if someone hits a player with a bow, it throws a sound and says how much health target have.
 
 ---
 
