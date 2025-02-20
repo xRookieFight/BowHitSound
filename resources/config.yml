@@ -1,18 +1,10 @@
-#
-#      |  __ \           | |  (_)    |  ____(_)     | |   | |
-# __  _| |__) |___   ___ | | ___  ___| |__   _  __ _| |__ | |_
-# \ \/ /  _  // _ \ / _ \| |/ / |/ _ \  __| | |/ _` | '_ \| __|
-#      | | \ \ (_) | (_) |   <| |  __/ |    | | (_| | | | | |_
-# /_/\_\_|  \_\___/ \___/|_|\_\_|\___|_|    |_|\__, |_| |_|\__|
-#                                               __/ |
-#                                              |___/
-#
-#  Be yourself; everyone else is already taken.
-#          github.com/xRookieFight
-#
-
 # BowSound Config File
 
-# If this setting is true, the plugin doesn't send message on a hit by arrow but send a popup,
-# But if this setting is false, the plugin does send message on a hit by arrow but doesn't send a popup.
-popup: false
+sound:
+  name: random.orb
+  volume: 1
+  pitch: 1
+
+message:
+  type: chat # Options: <popup, chat>
+  format: "§8» §d{player}§7's health: §c{health} HP"

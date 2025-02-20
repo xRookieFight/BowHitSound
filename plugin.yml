@@ -1,5 +1,5 @@
 name: BowHitSound
-version: 1.0.0
-api: 4.0.0
-main: xRookieFight\Main
+version: 2.0.0
+api: 5.0.0
+main: xRookieFight\BowHitSound\Main
 author: xRookieFight
